@@ -25,7 +25,7 @@ While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux
 <a href="https://t.me/amka_dev"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"  viewBox="0 0 24 24" width="30px" height="30px"  style=" float: left" > </img> </a>
 <a href="https://www.instagram.com/amka_dev/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"  viewBox="0 0 24 24" width="30px" height="30px"  style=" margin-left: 10px" ></img> </a>
 <a href="https://wa.me/+905510201707"> <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"  viewBox="0 0 24 24" width="30px" height="30px"  style=" margin-left: 10px" ></img> </a>
-<a href="[https://wa.me/+905510201707](https://stackoverflow.com/users/23284541/amir-nasifullin)"> <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="stackoverflow"  viewBox="0 0 24 24" width="30px" height="30px"  style=" margin-left: 10px" ></img> </a>
+<a href="https://stackoverflow.com/users/23284541/amir-nasifullin"> <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="stackoverflow"  viewBox="0 0 24 24" width="30px" height="30px"  style=" margin-left: 10px" ></img> </a>
 </p>
 </div>
 
