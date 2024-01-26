@@ -97,7 +97,7 @@ While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux
 		</tr>
 		<tr>
 			<td style="border: 1px #ffffff solid">Archakov Blog - React Pizza V2 </td>
-			<td style="border: 1px #ffffff solid">11.2023 - ongoing</td>
+			<td style="border: 1px #ffffff solid">11.2023 - 23.01.2024</td>
 		</tr>
 	</tbody>
 </table>
