@@ -1,26 +1,26 @@
 <div style=" margin-left: 10px; ">
-<div><h1 align="center">Hi 👋 my name is Amir</h1>
-<h3 align="center">On the way to fullstack developer📈</h3>
+<div><h1 align="center">Здравствуйте! Меня зовут Амир</h1>
+<h3 align="center">На пути к фуллстэк разработчику📈</h3>
 </div>
 <hr>
-<h2 align="left" >👨‍💻 A little about me:</h2>
-<p>I am 17 years old, at 16 I started my development journey with a mini CS-50 course (Harvard), there I learned the initial basics; <b>binary code, boolean values, etc</b>.
+<h2 align="left" >👨‍💻 Немного обо мне:</h2>
+<p>Мне 18 лет, в 16 лет я начал свой путь развития с мини-курса CS-50 (Гарвард), там я изучил начальные основы; <b>двоичный код, логические значения и т. д.</b>.
 
-After that I went through the basics of frontend development and learned <b>HTML, CSS</b>. But having realized that I will not go far only on this I decided to take the path of a <b>Full-stack</b> developer. And then I watched a lot of videos from YouTube and other resources and learned the basics of <b>Javascript</b>, having understood how this language works I moved to its framework <b>(React)</b>.
+После этого я изучил основы фронтенд-разработки и изучил <b>HTML, CSS</b>. Но поняв, что только на этом я далеко не уйду, я решил пойти по пути <b>Full-stack</b> разработчика. А потом я посмотрел много видео с YouTube и других ресурсов и изучил основы <b>Javascript</b>, поняв, как работает этот язык, перешёл на его фреймворк <b>(React)</b>.
 
-While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux Toolkit</b>. Thus I came to the current state, further I plan to study the backend thus becoming a <b>Full-stack</b> developer.</p>
+Продолжая изучать <b>React</b>, я также изучал <b>Sass, Typescript, Redux Toolkit</b>. Таким образом я пришел к нынешнему состоянию, в дальнейшем планирую изучать бэкенд и таким образом стать <b>Full-stack</b> разработчиком.</p>
 
 <ul>
-<li>🏁 Currently finishing learning React (to be supplemented)</li>
-<li>🔭 I want to find a job and explore more!</li>
-<li>📬 To contact me: <img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  <img width="53px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<li>🏁 Сейчас заканчиваю изучение React (будет дополнено)</li>
+<li>🔭 Я хочу найти работу и узнать больше!</li>
+<li>📬 Чтобы связаться со мной: <img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  <img width="53px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
   </li>
 </ul>
 
 <div >
 <hr>
-<h2>🤝 Socials:</h2>
+<h2>🤝 Соц-сети:</h2>
 <p>
 <a href="https://t.me/amka_dev"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"  viewBox="0 0 24 24" width="30px" height="30px"  style=" float: left" > </img> </a>
 <a href="https://www.instagram.com/amka_dev/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"  viewBox="0 0 24 24" width="30px" height="30px"  style=" margin-left: 10px" ></img> </a>
@@ -31,7 +31,7 @@ While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux
 
 <div >
 <hr>
-<h2>🗂 Skills:</h2>
+<h2>🗂 Навыки:</h2>
 <p>
 	<a>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"  viewBox="0 0 24 24" width="30px" height="30px" style=" float: left" ></img>
@@ -56,7 +56,7 @@ While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux
 
 <div >
 <hr>
-<h2>🛠 Tools:</h2>
+<h2>🛠 Инструменты:</h2>
 <p >
 <a><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"  width="30px" height="30px" style=" float: left" viewBox="0 0 24 24" ></img></a>
 <a><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" width="30px" height="30px" style="margin-left: 10px; float: left" viewBox="0 0 24 24" ></img></a>
@@ -69,7 +69,7 @@ While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux
 <hr>
 
 <div>
-<h2>📖 Learning sources: </h2>
+<h2>📖 Источники обучения: </h2>
 
 <table  style="border: 1px #ffffff solid">
 	<thead>
@@ -105,7 +105,7 @@ While continuing to study <b>React</b> I also studied <b>Sass, Typescript, Redux
 
 </div>
 <div>
-<h2>🐱 GitHub stats: </h2>
+<h2>🐱 Статистика GitHub: </h2>
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amka-dev&theme=dark" alt="amka-dev" /><p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amka-dev&theme=dark" alt="amka-dev" /><p>
 <p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amka-dev&theme=dark" alt="amka-dev" /><p>
