@@ -10,14 +10,6 @@
 
 Продолжая изучать <b>React</b>, я также изучал <b>Sass, Typescript, Redux Toolkit</b>. Таким образом я пришел к нынешнему состоянию, в дальнейшем планирую изучать бэкенд и таким образом стать <b>Full-stack</b> разработчиком.</p>
 
-<ul>
-<li>🏁 Сейчас осваиваю Redux Toolkit</li>
-<li>🔭 В активном поиске работы...</li>
-<li>📬 Чтобы связаться со мной: <img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  <img width="53px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  </li>
-</ul>
-
 <div >
 <hr>
 <h2>🤝 Соц-сети:</h2>
